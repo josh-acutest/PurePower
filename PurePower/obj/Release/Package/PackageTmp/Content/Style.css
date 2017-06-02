@@ -1,0 +1,28 @@
+﻿body {
+}
+
+h1 {
+    color: #fff;
+    font-size: 40px;
+}
+
+.container-bg {
+    background-image: url('../Images/purepower_bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
+.no-margin {
+    margin: 0px !important;
+}
+
+.logo {
+    margin: 0 auto;
+    margin-top: 100px;
+    max-width: 200px;
+}
+
+.align-center {
+    text-align: center;
+}

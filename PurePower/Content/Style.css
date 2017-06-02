@@ -1,0 +1,36 @@
+﻿
+.header-container {
+    background-color: #fff;
+    padding: 15px;
+}
+
+.panel {
+    background-color: transparent !important;
+}
+
+.header-topline {
+    height: 50px;
+    padding: 5px;
+}
+
+.header-topline i {
+    color: #000;
+    font-size: 24px;
+    float: right;
+    margin-right: 10px;
+}
+
+.navbar-nav > li > a {
+    color: #000 !important;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.navbar-nav > li > a:hover {
+    color: #808080 !important;
+}
+
+.navbar {
+    border: none !important;
+}
+ 
